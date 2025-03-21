@@ -2,3 +2,5 @@
 
 echo "B.php";
 echo "Hello World!";
+
+?>
